@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OeresundLibrary", "OeresundLibrary\OeresundLibrary.csproj", "{68FD4909-9CA9-415B-8FE6-360CBE41F0D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OereSundTEst", "OereSundTEst\OereSundTEst.csproj", "{74EB2C7A-E2F5-4399-82BC-CA0DFFFE98A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68FD4909-9CA9-415B-8FE6-360CBE41F0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FD4909-9CA9-415B-8FE6-360CBE41F0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FD4909-9CA9-415B-8FE6-360CBE41F0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FD4909-9CA9-415B-8FE6-360CBE41F0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74EB2C7A-E2F5-4399-82BC-CA0DFFFE98A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EB2C7A-E2F5-4399-82BC-CA0DFFFE98A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74EB2C7A-E2F5-4399-82BC-CA0DFFFE98A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EB2C7A-E2F5-4399-82BC-CA0DFFFE98A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F2D5BB6-7EA9-4D34-AE22-861E2CF72A4A}
+	EndGlobalSection
+EndGlobal

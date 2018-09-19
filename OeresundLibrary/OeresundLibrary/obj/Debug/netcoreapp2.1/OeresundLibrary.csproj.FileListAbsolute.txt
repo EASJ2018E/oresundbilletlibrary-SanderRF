@@ -1,0 +1,12 @@
+C:\source\Programming\OeresundBroenLibrary\OeresundLibrary\OeresundLibrary\bin\Debug\netcoreapp2.1\OeresundLibrary.deps.json
+C:\source\Programming\OeresundBroenLibrary\OeresundLibrary\OeresundLibrary\bin\Debug\netcoreapp2.1\OeresundLibrary.dll
+C:\source\Programming\OeresundBroenLibrary\OeresundLibrary\OeresundLibrary\bin\Debug\netcoreapp2.1\OeresundLibrary.pdb
+C:\source\Programming\OeresundBroenLibrary\OeresundLibrary\OeresundLibrary\bin\Debug\netcoreapp2.1\TicketLibrary.dll
+C:\source\Programming\OeresundBroenLibrary\OeresundLibrary\OeresundLibrary\bin\Debug\netcoreapp2.1\TicketLibrary.xml
+C:\source\Programming\OeresundBroenLibrary\OeresundLibrary\OeresundLibrary\obj\Debug\netcoreapp2.1\OeresundLibrary.csprojAssemblyReference.cache
+C:\source\Programming\OeresundBroenLibrary\OeresundLibrary\OeresundLibrary\obj\Debug\netcoreapp2.1\OeresundLibrary.csproj.CoreCompileInputs.cache
+C:\source\Programming\OeresundBroenLibrary\OeresundLibrary\OeresundLibrary\obj\Debug\netcoreapp2.1\OeresundLibrary.AssemblyInfoInputs.cache
+C:\source\Programming\OeresundBroenLibrary\OeresundLibrary\OeresundLibrary\obj\Debug\netcoreapp2.1\OeresundLibrary.AssemblyInfo.cs
+C:\source\Programming\OeresundBroenLibrary\OeresundLibrary\OeresundLibrary\obj\Debug\netcoreapp2.1\OeresundLibrary.csproj.CopyComplete
+C:\source\Programming\OeresundBroenLibrary\OeresundLibrary\OeresundLibrary\obj\Debug\netcoreapp2.1\OeresundLibrary.dll
+C:\source\Programming\OeresundBroenLibrary\OeresundLibrary\OeresundLibrary\obj\Debug\netcoreapp2.1\OeresundLibrary.pdb
